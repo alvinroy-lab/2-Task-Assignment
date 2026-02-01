@@ -14,13 +14,12 @@ Python allows users to focus more on problem-solving rather than complex syntax.
 
 # Simple Syntax Examples 
 
-**Printing output**
+```python
 x = 10
 y = 5
-
 name = "Python"
-
 price = 99.5
+
 
 
 
