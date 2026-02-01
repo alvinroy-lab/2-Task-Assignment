@@ -6,16 +6,15 @@ Python allows users to focus more on problem-solving rather than complex syntax.
 
 # Key Concepts
 
-- High-level programming language
-- Interpreted (no compilation required)
-- Open-source and free to use
-- Platform independent
-- Large ecosystem of libraries
+1. High-level programming language
+2. Interpreted (no compilation required)
+3. Open-source and free to use
+4. Platform independent
+5. Large ecosystem of libraries
 
----
-
-# Simple Syntax Examples (minimal code only)
+# Simple Syntax Examples 
 
 **Printing output**
 ```python
 print("Hello, World")
+
