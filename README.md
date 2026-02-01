@@ -17,8 +17,10 @@ Python allows users to focus more on problem-solving rather than complex syntax.
 ```python
 x = 10
 y = 5
-name = "Python"
-price = 99.5
+if x > y:
+    print("x is greater than y")
+
+
 
 
 
