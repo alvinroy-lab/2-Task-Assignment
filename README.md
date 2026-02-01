@@ -24,6 +24,20 @@ In economics and business, Python is used for:
 
 Economists prefer Python because it reduces manual work and increases efficiency.
 
+# Advantages
+
+1. Easy to learn for beginners
+2. Readable and simple syntax
+3. Strong community support
+4. Widely used in academia and industry
+5. Compatible with economic and statistical tools
+
+# Disadvantages
+
+1. Slower execution compared to compiled languages
+2. Not ideal for mobile app development
+3. Requires external libraries for advanced performance
+
 # Simple Syntax Examples 
 
 ```python
@@ -31,4 +45,5 @@ x = 10
 y = 5
 if x > y:
     print("x is greater than y")
+
 
